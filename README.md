@@ -26,3 +26,5 @@ Entity
 对于前后端分离的设计：
 使用了@config标注的跨域访问
 对于身份验证则使用了Jwt
+
+测试数据集在import.sql中 第一次测试使用推荐将 springboot 项目中的properties 中的databases初始化改成create
